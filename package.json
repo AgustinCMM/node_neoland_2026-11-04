@@ -1,0 +1,28 @@
+{
+  "name": "node_neoland_2026-11-04",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000_\u0000n\u0000e\u0000o\u0000l\u0000a\u0000n\u0000d\u0000_\u00002\u00000\u00002\u00006\u0000-\u00001\u00001\u0000-\u00000\u00004\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinCMM/node_neoland_2026-11-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AgustinCMM/node_neoland_2026-11-04/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez-neoland/rutas_node_octubre2026#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0"
+  }
+}
